@@ -6,6 +6,9 @@ authors:
     - CyberArk Business Development (@cyberark-bizdev)
     - Edward Nunez (@enunez-cyberark)
     - James Stutes (@JimmyJamCABD)
+    - Oren Ben Meir (@orenbm)
+    - Jenia Sakirko (@jeniaSakirko)
+    - Jason Vanderhoof (@jvanderhoof)
 description: "This is a Collection of CyberArk Conjur/DAP toolkit."
 license: "Apache-2.0"
 tags:

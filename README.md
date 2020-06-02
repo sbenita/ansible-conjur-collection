@@ -47,3 +47,7 @@ Fetch credentials from CyberArk Conjur using the controlling host's Conjur ident
     - @cyberark-bizdev
     - @enunez-cyberark
     - @jimmyjamcabd
+- CyberArk R&D Team
+    - @orenbm
+    - @jeniaSakirko
+    - @jvanderhoof

@@ -16,6 +16,9 @@ DOCUMENTATION = """
       - CyberArk BizDev (@cyberark-bizdev)
       - Edward Nunez (@enunez-cyberark)
       - James Stutes (@jimmyjamcabd)
+      - Oren Ben Meir (@orenbm)
+      - Jenia Sakirko (@jeniaSakirko)
+      - Jason Vanderhoof (@jvanderhoof)
     description:
       Retrieves credentials from Conjur using the controlling host's Conjur identity
       or environment variables.
